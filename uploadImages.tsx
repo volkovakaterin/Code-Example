@@ -1,3 +1,5 @@
+//Компонент загрузки изображений drag and drop в контейнер, перемещение загруженных изображений для изменения их очередности 
+
 'use client';
 import { useEffect, useRef, useState } from 'react';
 import styles from './UploadImages.module.scss';
