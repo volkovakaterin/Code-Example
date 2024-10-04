@@ -1,3 +1,5 @@
+//Компонент добавления нового пользователя 
+
 'use client';
 
 import InputAdmin from '../../../shared/ui/Input';
